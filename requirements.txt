@@ -6,4 +6,5 @@ python-socketio==5.4.0
 eventlet==0.33.0
 korcen==0.3.13
 Werkzeug==2.0.3
+dnspython==2.2.1
 
